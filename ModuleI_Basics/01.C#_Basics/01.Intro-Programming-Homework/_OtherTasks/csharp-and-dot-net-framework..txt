@@ -1,0 +1,10 @@
+source: "https://www.quora.com/What-is-the-difference-between-C-and-NET"
+
+Task: Describe the difference between C# and .NET Framework
+
+.NET is an umbrella term which comprises of FCL (Framework Class Library) and many languages(C#, VB.NET, C++/CLI, F#, ...),  which compiles source code and outputs IL (Intermediate Language). 
+IL will be consumed by CLR (Common Language Runtime) and converts it into platform specific code during runtime by the JIT (just-in-time) compiler.
+.NET is a common type system, set of libraries, run time and over all environment under which compliant code is executed.
+
+C# is a programming language using which you can develop software utilizing the FCL and can target many platforms (Windows, Linux - using Mono, iOS - using Xamarin, ...).
+C# is one of the languages whose compiler generates .net compliant code that can run on framework. 
