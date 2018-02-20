@@ -9,3 +9,4 @@
 
 05. [Conditional Statements](05.Conditional_Statements)
 
+06. [Loops](06.Loops)
