@@ -32,9 +32,6 @@ Otherwise, print **odd**, again followed by a whitespace and the number's value.
 |-1              |odd -1          |
 |0               |even 0          |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#0)
-
 ---
 
 # 02. Moon Gravity
@@ -64,9 +61,6 @@ Output all values with **exactly 3-digit precision** after the floating point.
 |86              |14.620          |
 |74.6            |12.682          |
 |53.7            |9.129           |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#1)
 
 ---
 
@@ -100,10 +94,6 @@ Write a program that does the following:
 |7               |false 7         |
 |35              |true 35         |
 |140             |true 140        |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#2)
-
 ---
 
 # 04. Rectangles
@@ -134,9 +124,6 @@ The **width** and **height** should be read from the console.
 |5<br/>5         |25.00 20.00     |
 |3<br/>4         |12.00 14.00     |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#3)
-
 ---
 
 # 05. Third digit
@@ -166,9 +153,6 @@ Write a program that reads an integer **N** from the console and prints **true**
 |877             |false 8         |
 |777877          |false 8         |
 |9999799         |true            |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#4)
 
 ---
 
@@ -202,9 +186,6 @@ Write a program that takes as input a four-digit number in format **abcd** (e.g.
 |3333            |12<br/>3333<br/>3333<br/>3333|
 |9876            |30<br/>6789<br/>6987<br/>9786|
 |1230            |6<br/>0321<br/>0123<br/>1320 |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#5)
 
 ---
 
@@ -242,9 +223,6 @@ The program should then print **"yes DISTANCE"** if the point is inside the circ
 |1<br/>1.655     |yes 1.93       |
 |0<br/>1         |yes 1.00       |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#6)
-
 ---
 
 # 08. Prime check
@@ -273,9 +251,6 @@ Write a program that reads an integer **N** (which will always be less than **10
 | -3             | false          |
 | 0              | false          |
 | 1              | false          |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#7)
 
 ---
 
@@ -309,9 +284,6 @@ The three values should be read from the console in the order shown below. All t
 | 100<br/>200<br/>300       | 45,000.0000000   |
 | 0.222<br/>0.333<br/>0.555 | 0.1540125       |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#8)
-
 ---
 
 # 10. Point, Circle, Rectangle
@@ -341,9 +313,6 @@ Write a program that reads a pair of coordinates **x** and **y** and uses an exp
 |2.5<br/>1       |inside circle inside rectangle     |
 |1<br/>2         |inside circle outside rectangle    |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#9)
-
 ---
 
 # 11*. 3rd Bit
@@ -370,9 +339,6 @@ Using bitwise operators, write a program that uses an expression to find the val
 |----------------|----------------|
 | 15             | 1              |
 | 1024           | 0              |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#10)
 
 ---
 
@@ -403,9 +369,6 @@ Write a program that reads from the console two integer numbers **P** and **N** 
 | 5343<br/>7      | 00000000 00010100 11011111 | 1      |
 | 62241<br/>11    | 00000000 11110011 00100001 | 0      |
 | 985276<br/>49   | 00001111 00001000 10111100 | 0      |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#11)
 
 ---
 
@@ -442,9 +405,6 @@ Write a sequence of operators (a few lines of C# code) that modifies **N** to ho
 | 5343 <br/>7 <br/>0 | 00010100 11011111     | 00010100 01011111 | 5215           |
 | 62241<br/>11<br/>0 | 11110011 00100001     | 11110011 00100001 | 62241          |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#12)
-
 ---
 
 # 14*. BitExchange
@@ -472,9 +432,6 @@ Write a program that exchanges bits **3**, **4** and **5** with bits **24**, **2
 | 4294901775  | 11111111 11111111 00000000 00001111  | 11111001 11111111 00000000 00111111  | 4194238527  |
 | 5351        | 00000000 00000000 00010100 11100111  | 00000100 00000000 00010100 11000111  | 67114183    |
 | 2369124121  | 10001101 00110101 11110111 00011001  | 10001011 00110101 11110111 00101001  | 2335569705  |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#13)
 
 ---
 
@@ -507,9 +464,6 @@ Write a program first reads 4 numbers **n**, **p**, **q** and **k** and than swa
 | 1140867093<br/>3<br/>24<br/>3  | 01000100 00000000 01000000 00010101 | 01000010 00000000 01000000 00100101 | 1107312677   |
 | 4294901775<br/>24<br/>3<br/>3  | 11111111 11111111 00000000 00001111 | 11111001 11111111 00000000 00111111 | 4194238527   |
 | 2369124121<br/>2<br/>22<br/>10 | 10001101 00110101 11110111 00011001 | 01110001 10110101 11111000 11010001 | 1907751121   |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/310#14)
 
 
 
