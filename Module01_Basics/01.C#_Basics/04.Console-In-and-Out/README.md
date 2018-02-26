@@ -29,9 +29,6 @@ Your output should consist only of a single line - the sum of the three numbers.
 | -2<br/>0<br/>3       | 1                |
 | 5.5<br/>4.5<br/>20.1 | 30.1             |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#0)
-
 ---
 
 # 02. Company info
@@ -79,9 +76,6 @@ Your output should consist only of a single line - the sum of the three numbers.
 |----------------------------|------|
 | Telerik Academy<br />231 Al. Malinov, Sofia<br />+359 888 55 55 555<br /><br />http://telerikacademy.com/<br />Nikolay<br />Kostov<br />25<br />+359 2 981 981 | Telerik Academy<br />Address: 231 Al. Malinov, Sofia<br />Tel. +359 888 55 55 555<br />Fax: (no fax)<br />Web site: http://telerikacademy.com/<br />Manager: Nikolay Kostov (age: 25, tel. +359 2 981 981) |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#1)
-
 ---
 
 # 03. Circle
@@ -106,9 +100,6 @@ Write a program that reads from the console the radius **r** of a circle and pri
 | 2                   | 12.57 12.57        |
 | 3.5                 | 21.99 38.48        |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#2)
-
 ---
 
 # 04. Formatting Numbers
@@ -131,9 +122,6 @@ _Examples:_
 | 254 | 11.6    | 0.5     | `FE        |0011111110|     11.60|0.500     |` |
 | 499 | -0.5559 | 10000   | `1F3       |0111110011|     -0.56|10000.000 |` |
 | 0   | 3       | -0.1234 | `0         |0000000000|      3.00|-0.123    |` |
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -164,9 +152,6 @@ Write a program that gets two numbers from the console and prints the greater of
 | 0<br />0     | 0        |
 | -5<br />-2   | -2       |
 | 1.5<br />1.6 | 1.6      |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#3)
 
 ---
 
@@ -199,9 +184,6 @@ Write a program that reads the coefficients **a**, **b** and **c** of a quadrati
 | -0.5<br/>4<br/>-8| 4.00            |
 | 5<br/>2<br/>8    | no real roots   |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#4)
-
 ---
 
 # 07. Sum of 5 numbers
@@ -227,9 +209,6 @@ Your output should consist only of a single line - the sum of the 5 numbers.
 | 1<br/>2<br/>3<br/>4<br/>5        | 15                |
 | -1<br/>2<br/>-3<br/>4<br/>10     | 12                |
 | 0<br/>0<br/>0<br/>0<br/>0        | 0                 |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#5)
 
 ---
 
@@ -257,9 +236,6 @@ Write a program that reads an integer number **N** from the console and prints a
 | 3     | 1<br/>2<br/>3             |
 | 5     | 1<br/>2<br/>3<br/>4<br/>5 |
 | 1     | 1                         |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#6)
 
 ---
 
@@ -290,9 +266,6 @@ Write a program that enters a number **N** and after that enters more **N** numb
 | 5 <br/>2 <br/>-1 <br/>-0.5<br/>4<br/>2 | 6.5            |
 | 1 <br/>1                         | 1              |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#7)
-
 ---
 
 # 10. Fibonacci Numbers
@@ -321,9 +294,6 @@ Write a program that reads a number **N** and prints
 | 3              | 0, 1, 1                          |
 | 10             | 0, 1, 1, 2, 3, 5, 8, 13, 21, 34  |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#8)
-
 ---
 
 # 11*. Interval
@@ -350,9 +320,6 @@ Write a program that reads two positive integer numbers **N** and **M** and prin
 | 20<br>37        | 3               | 25, 30, 35      |
 | 2<br>2          | 0               | think why       |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/311#9)
-
 ---
 
 ## ***Additional Task (Play with it a little bit.) Falling Rocks
@@ -368,9 +335,6 @@ Write a program that reads two positive integer numbers **N** and **M** and prin
 - Implement collision detection and scoring system.
 
 ![console-falling-rocks](https://cloud.githubusercontent.com/assets/3106986/5611219/7126b0b6-94cc-11e4-8610-28ffa78d0cf7.png)
-
-## Submission
-- You do not have to submit anything for this problem
 
 
 
