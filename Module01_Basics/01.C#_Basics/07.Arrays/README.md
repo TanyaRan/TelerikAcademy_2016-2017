@@ -26,9 +26,6 @@ Write a program that allocates array of **N** integers, initializes each element
 |:-----:|:------:|
 | 5     | 0<br>5<br>10<br>15<br>20 |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#0)
-
 ---
 
 # 02. Compare arrays
@@ -57,9 +54,6 @@ Write a program that reads two `integer` arrays of size **N** from the console a
 | 3<br>**1<br>2<br>3<br>1<br>2<br>3** | Equal |
 | 3<br>**1<br>1<br>1<br>2<br>2<br>2** | Not equal |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#1)
-
 ---
 
 # 03. Compare char arrays
@@ -86,9 +80,6 @@ Write a program that compares two `char` arrays lexicographically (letter by let
 | hello<br>halo | > |
 | food<br>food | = |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#2)
-
 ---
 
 # 04. Maximal sequence
@@ -114,9 +105,6 @@ Write a program that finds the length of the **maximal sequence** of equal eleme
 |:--------------------------------------------------------:|:------:|
 | 10<br>2<br>1<br>1<br>2<br>3<br>3<br>**2<br>2<br>2**<br>1 | 3      |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#3)
-
 ---
 
 # 05. Maximal increasing sequence
@@ -141,9 +129,6 @@ Write a program that finds the length of the **maximal increasing sequence** in 
 | Input                                         | Output |
 |:---------------------------------------------:|:------:|
 | 8<br>7<br>3<br>**2<br>3<br>4**<br>2<br>2<br>4 | 3      |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#4)
 
 ---
 
@@ -173,9 +158,6 @@ Find the maximal sum of **K** elements in the array.
 |:-----------------------------------------------------------:|:------:|
 | 8<br>3<br>3<br>2<br>3<br>-2<br>**5**<br>**4**<br>2<br>**7** | 16     |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#5)
-
 ---
 
 # 07. Selection sort
@@ -204,9 +186,6 @@ Use the [Selection sort](http://en.wikipedia.org/wiki/Selection_sort) algorithm:
 | 6<br>**3<br>4<br>1<br>5<br>2<br>6** | 1<br>2<br>3<br>4<br>5<br>6 |
 | 10<br>**36<br>10<br>1<br>34<br>28<br>38<br>31<br>27<br>30<br>20** | 1<br>10<br>20<br>27<br>28<br>30<br>31<br>34<br>36<br>38 |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#6)
-
 ---
 
 # 08. Maximal sum
@@ -233,9 +212,6 @@ Write a program that finds the maximal sum of consecutive elements in a given ar
 | Input | Output |
 |:-----:|:------:|
 | 10<br>2<br>3<br>-6<br>-1<br>**2<br>-1<br>6<br>4**<br>-8<br>8 | 11 |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#7)
 
 ---
 
@@ -265,9 +241,6 @@ Write a program that finds the most frequent number in an array of **N** element
 |:-----:|:------:|
 | 13<br>**4**<br>1<br>1<br>**4**<br>2<br>3<br>**4**<br>**4**<br>1<br>2<br>**4**<br>9<br>3 | 4 (5 times) |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#8)
-
 ---
 
 # 10. Find sum in array
@@ -280,9 +253,6 @@ Write a program that finds in given array of integers a sequence of given sum `S
 |        array            |  S |  result |
 |-------------------------|----|---------|
 | 4, 3, 1, **4, 2, 5**, 8 | 11 | 4, 2, 5 |
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -312,9 +282,6 @@ Write a program that finds the index of given element **X** in a sorted array of
 |:-----:|:------:|
 | 10<br>**1<br>2<br>4<br>8<br>16<br>31<br>32<br>64<br>77<br>99**<br>32 | 6 |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#9)
-
 ---
 
 # 12. Index of letters
@@ -341,9 +308,6 @@ Read a word from the console and print the index of each of its letters in the a
 | Input          | Output |
 |:--------------:|:------:|
 | telerikacademy | 19<br>4<br>11<br>4<br>17<br>8<br>10<br>0<br>2<br>0<br>3<br>4<br>12<br>24 |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#10)
 
 ---
 
@@ -372,9 +336,6 @@ Write a program that sorts an array of integers using the [Merge sort](http://en
 | 6<br>**3<br>4<br>1<br>5<br>2<br>6** | 1<br>2<br>3<br>4<br>5<br>6 |
 | 10<br>**36<br>10<br>1<br>34<br>28<br>38<br>31<br>27<br>30<br>20** | 1<br>10<br>20<br>27<br>28<br>30<br>31<br>34<br>36<br>38 |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#11)
-
 ---
 
 # 14**. Quick sort
@@ -402,9 +363,6 @@ Write a program that sorts an array of integers using the [Quick sort](http://en
 | 6<br>**3<br>4<br>1<br>5<br>2<br>6** | 1<br>2<br>3<br>4<br>5<br>6 |
 | 10<br>**36<br>10<br>1<br>34<br>28<br>38<br>31<br>27<br>30<br>20** | 1<br>10<br>20<br>27<br>28<br>30<br>31<br>34<br>36<br>38 |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#12)
-
 ---
 
 # 15. Prime numbers
@@ -431,9 +389,6 @@ Write a program that finds all prime numbers in the range [`1 ... N`]. Use the [
 | 126   | 113    |
 | 26    | 23     |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#13)
-
 ---
 
 # 16**. Subset with sum S
@@ -448,9 +403,6 @@ Write a program to find if there exists a subset of the elements of the array th
 |:--------------------------------------:|:--:|:-------------:|
 | 2, **1**, **2**, 4, 3, **5**, 2, **6** | 14 | yes           |
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 17**. Subset K with sum S
@@ -458,9 +410,6 @@ Write a program to find if there exists a subset of the elements of the array th
 ## Description
 Write a program that reads three integer numbers `N`, `K` and `S` and an array of `N` elements from the console.
 - Find in the array a subset of `K` elements that have sum `S` or indicate about its absence.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -489,9 +438,6 @@ Print the minimal number of elements that need to be removed in order for the ar
 | 8<br>**1<br>4<br>3<br>3<br>6<br>3<br>2<br>3** | 3 |
 | 10<br>**14<br>2<br>9<br>8<br>3<br>13<br>17<br>19<br>30<br>1** | 4 |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/315#14)
-
 ---
 
 # 19**. Permutations of set
@@ -504,9 +450,6 @@ Write a program that reads a number `N` and generates and prints all the permuta
 | N |                                  result                                 |
 |:-:|:-----------------------------------------------------------------------:|
 | 3 | `{1, 2, 3}` <br> `{1, 3, 2}` <br> `{2, 1, 3}` <br> `{2, 3, 1}` <br> `{3, 1, 2}` <br> `{3, 2, 1}` |
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -521,9 +464,6 @@ Write a program that reads two numbers `N` and `K` and generates all the variati
 |:-:|:-:|:--------------------------------------------------------------------------------:|
 | 3 | 2 | `{1, 1}` <br> `{1, 2}` <br> `{1, 3}` <br> `{2, 1}` <br> `{2, 2}` <br> `{2, 3}` <br> `{3, 1}` <br> `{3, 2}` <br> `{3, 3}` |
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 21**. Combinations of set
@@ -536,9 +476,6 @@ Write a program that reads two numbers `N` and `K` and generates all the combina
 | N | K |                                          result                                           |
 |:-:|:-:|:-----------------------------------------------------------------------------------------:|
 | 5 | 2 | `{1, 2}` <br> `{1, 3}` <br> `{1, 4}` <br> `{1, 5}` <br> `{2, 3}` <br> `{2, 4}` <br> `{2, 5}` <br> `{3, 4}` <br> `{3, 5}` <br> `{4, 5}` |
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -562,9 +499,6 @@ All parameters passed to your executable should be parsed to integers and summed
 | ./CLI.exe 1 2 3 4 5 | 15           |
 | ./CLI.exe 10 10     | 20           |
 | ./CLI.exe 7 8 13 33 | 61           |
-
-## Submission
-You do not have to submit anything for this task.
 
 
 
