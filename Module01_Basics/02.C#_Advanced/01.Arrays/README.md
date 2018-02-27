@@ -1,8 +1,8 @@
-###Homework: Arrays
-[Here](../01.C#_Basics/07.Arrays)
+# Arrays
+-[Here](../../01.C%23_Basics/07.Arrays)
 ================
 
-# Problem List
+### Problem List
 
 01. Allocate array
 02. Compare arrays
