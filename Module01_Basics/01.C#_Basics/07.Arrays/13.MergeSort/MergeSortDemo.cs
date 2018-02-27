@@ -59,10 +59,12 @@
             {
                 if (left.Count > 0 && right.Count > 0)
                 {
-                    if (left.First() <= right.First())  //Comparing First two elements to see which is smaller
+                    if (left.First() <= right.First())  
+                    //Comparing First two elements to see which is smaller
                     {
                         result.Add(left.First());
-                        left.Remove(left.First());      //Rest of the list minus the first element
+                        left.Remove(left.First());      
+                        //Rest of the list minus the first element
                     }
                     else
                     {
@@ -78,7 +80,6 @@
                 else if (right.Count > 0)
                 {
                     result.Add(right.First());
-
                     right.Remove(right.First());
                 }
             }
