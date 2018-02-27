@@ -9,9 +9,6 @@
 - Install **Visual Studio** on your laptop or home computer. Go to the official [Visual Studio](https://www.visualstudio.com/) site and download the **Community 2015** version.
 - Start Visual Studio and familiarize yourself with it. Create a simple C# program (console application), compile and run it.
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 02. Blank Solution
@@ -19,9 +16,6 @@
 ## Description
 - Create a blank solution in Visual Studio called *“Intro-Programming-Homework”*. use this solution to hold all your homework projects, code and files. 
   For each problem (exercises) add a separate project with self-descriptive name like **Hello-World** and **Print-Your-Name**.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -33,9 +27,6 @@
     - Find information about Console.ReadLine() method in MSDN.
 	- Find information about the Console class.
 	- Find information about the class keyword.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -54,9 +45,6 @@ Create, compile and run a **Hello World** application - it should print the stri
 - Time limit: **0.1s**
 - Memory limit: **16MB**
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/314#0)
-
 ---
 
 # 05. Print Name
@@ -64,9 +52,6 @@ Create, compile and run a **Hello World** application - it should print the stri
 ## Description
 - Create a C## application that print your name on the console.
 - Ensure you have named the application well (e.g. “PrintMyName”).
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -85,18 +70,12 @@ Write a program that prints the numbers **1**, **101** and **1001**, each on a s
 - Time limit: **0.1s**
 - Memory limit: **16MB**
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/314#1)
-
 ---
 
 # 07. Print First and Last Name
 
 ## Description
 - Create console application that prints your first and last name, each at a separate line.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -114,9 +93,6 @@ Write a program that calculates the square root of the number **12345** and prin
 ## Constraints
 - Time limit: **0.1s**
 - Memory limit: **16MB**
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/314#2)
 
 ---
 
@@ -142,9 +118,6 @@ Write a program that prints the first 10 members of the sequence: `2, -3, 4, -5,
 ## Constraints
 - Time limit: **0.1s**
 - Memory limit: **16MB**
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/314#3)
 
 ---
 
@@ -185,9 +158,6 @@ i++)
 }
 ```
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 11. Programming Languages
@@ -207,9 +177,6 @@ i++)
 - Perform a research (e.g. in _Google_ or _Wikipedia_) and provide a short list with popular development environments (**IDE**s) like Visual Studio.
 - Write in a text file called **list-of-IDEs.txt** at least five IDEs along with 2-3 sentences about each of them. Use English.
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 13. C## and .NET Differences
@@ -218,18 +185,12 @@ i++)
 - Describe the difference between **C#** and **.NET Framework** in 2-3 sentences.
 - Write your description in a text file called **csharp-and-dot-net-framework.txt**. Use English.
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 14. Current Date and Time
 
 ## Description
 - Create a console application that prints the current date and time. Find out how in Internet.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -259,9 +220,6 @@ Write a program that reads your birthday(in the format `MM.DD.YYYY`) from the co
 |03.05.2016|0<br/>10 |
 |05.16.1994|21<br/>31|
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/314#4)
-
 ---
 
 # 16*. Print Long Sequence
@@ -289,9 +247,6 @@ Write a program that prints the first 1000 members of the sequence: `2, -3, 4, -
 - Time limit: **0.1s**
 - Memory limit: **16MB**
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/314#5)
-
 ---
 
 # 17*. Play with the VS Debugger
@@ -300,6 +255,3 @@ Write a program that prints the first 1000 members of the sequence: `2, -3, 4, -
 - Write a program that prints at the console the numbers from `1 to 1000`, each at a separate line.
 - You might need to learn how to use loops (search in Internet).
 - Set a breakpoint in the line, which prints the next number in the Visual Studio code editor. Run the program through the debugger using the `[F5]` key. When the debugger stops at the breakpoint trace the code execution with `[F10]` key.
-
-## Submission
-- You do not have to submit anything for this problem

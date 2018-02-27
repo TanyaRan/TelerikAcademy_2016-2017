@@ -29,9 +29,6 @@ Use an if-statement. As a result print the values of the variables **A** and **B
 | 2<br/>4         | 2 4             |
 | 3.3<br/>3.3     | 3.3 3.3         |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/309#0)
-
 ---
 
 # 02. Bonus Score
@@ -62,9 +59,6 @@ Write a program that applies bonus score to given score in the range **[1…9]**
 | 4               | 400             |
 | 9               | 9000            |
 | 10              | invalid score   |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/309#1)
 
 ---
 
@@ -97,9 +91,6 @@ Classical play cards use the following signs to designate the card face:
 | 10        | yes 10           |
 | 500       | no 500           |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/309#2)
-
 ---
 
 # 04. Multiplication sign
@@ -127,9 +118,6 @@ Write a program that shows the sign (+, - or 0) of the product of three real num
 | 2<br/>5<br/>-2    | -            |
 | -0.5<br/>0<br/>-2 | 0            |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/309#3)
-
 ---
 
 # 05. Biggest of 3
@@ -155,9 +143,6 @@ Write a program that finds the biggest of three numbers that are read from the c
 | 4<br/>4<br/>4      | 4              |
 | -0.5<br/>-10<br/>0 | 0              |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/309#4)
-
 ---
 
 # 06. Biggest of 5
@@ -182,9 +167,6 @@ Write a program that finds the biggest of **5** numbers that are read from the c
 |----------------------------------|-----------------|
 | 4<br/>4<br/>4<br/>4<br/>4        | 4               |
 | -0.5<br/>-10<br/>0<br/>-1</br>-3 | 0               |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/309#5)
 
 ---
 
@@ -213,9 +195,6 @@ Write a program that enters 3 real numbers and prints them sorted in descending 
 | 3<br/>2<br/>1   | 3 2 1          |
 | -5<br/>3<br/>-5 | 3 -5 -5        |
 | 1<br/>2<br/>20  | 20 2 1         |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/309#6)
 
 ---
 
@@ -246,9 +225,6 @@ Write a program that read a digit **[0-9]** from the console, and depending on t
 | 9              | nine           |
 | -9             | not a digit    |
 | kek            | not a digit    |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/309#7)
 
 ---
 
@@ -284,13 +260,6 @@ Write a program that, depending on the first line of the input, reads an **int**
 | integer<br/>2   | 3               |
 | real<br/>-2.5   | -1.50           |
 | text<br/>gosho  | gosho*          |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/309#8)
-
-
-
-
 
 
 

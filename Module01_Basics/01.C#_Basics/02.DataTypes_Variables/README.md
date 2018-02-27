@@ -9,9 +9,6 @@
 Declare five variables choosing for each of them the most appropriate of the types `byte, sbyte, short, ushort, int, uint, long, ulong` to represent the following values: `52130, -115, 4825932, 97, -10000`.
 Choose a large enough type for each number to ensure it will fit in it. Try to compile the code.
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 02. Float or Double
@@ -19,9 +16,6 @@ Choose a large enough type for each number to ensure it will fit in it. Try to c
 ## Description
 Which of the following values can be assigned to a variable of type `float` and which to a variable of type `double`: `34.567839023, 12.345, 8923.1234857, 3456.091`?
 Write a program to assign the numbers in variables and print them to ensure no precision is lost.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -32,9 +26,6 @@ Declare an integer variable and assign it with the value `254` in hexadecimal fo
 Use Windows Calculator to find its hexadecimal representation.
 Print the variable and ensure that the result is `254`.
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 04. Unicode Character
@@ -44,9 +35,6 @@ Declare a character variable and assign it with the symbol that has Unicode code
 
 _Hint: first, use the Windows Calculator to find the hexadecimal representation of `42`. The output should be `*`._
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 05. Boolean Variable
@@ -54,9 +42,6 @@ _Hint: first, use the Windows Calculator to find the hexadecimal representation 
 ## Description
 Declare a Boolean variable called `isFemale` and assign an appropriate value corresponding to your gender.
 Print it on the console.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -66,9 +51,6 @@ Print it on the console.
 Declare two string variables and assign them with `Hello` and `World`.
 Declare an object variable and assign it with the concatenation of the first two variables (mind adding an interval between).
 Declare a third string variable and initialize it with the value of the object variable (you should perform type casting).
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -86,9 +68,6 @@ Write a program that outputs `The "use" of quotations causes difficulties.`
 ## Constraints
 - Time limit: **0.1s**
 - Memory limit: **16MB**
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/313#0)
 
 ---
 
@@ -111,9 +90,6 @@ _Note: The `©` symbol may be displayed incorrectly at the console so you may ne
 
 _Note: Under old versions of Windows the `©` symbol may still be displayed incorrectly, regardless of how much effort you put to fix it._
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 09. Exchange Variable Values
@@ -121,9 +97,6 @@ _Note: Under old versions of Windows the `©` symbol may still be displayed inco
 ## Description
 Declare two integer variables `a` and `b` and assign them with `5` and `10` and after that exchange their values by using some programming logic.
 Print the variable values before and after the exchange.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -140,9 +113,6 @@ A marketing company wants to keep record of its employees. Each record would hav
 
 Declare the variables needed to keep the information for a single employee using appropriate primitive data types. Use descriptive names. Print the data at the console.
 
-## Submission
-- You do not have to submit anything for this problem
-
 ---
 
 # 11. Bank Account Data
@@ -150,9 +120,6 @@ Declare the variables needed to keep the information for a single employee using
 ## Description
 A bank account has a holder name (first name, middle name and last name), available amount of money (balance), bank name, IBAN, 3 credit card numbers associated with the account.
 Declare the variables needed to keep the information for a single bank account using the appropriate data types and descriptive names.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -162,9 +129,6 @@ Declare the variables needed to keep the information for a single bank account u
 Create a program that assigns null values to an integer and to a double variable. 
 - Try to print these variables at the console. 
 - Try to add some number or the null literal to these variables and print the result.
-
-## Submission
-- You do not have to submit anything for this problem
 
 ---
 
@@ -199,9 +163,6 @@ _Hint: Use double.Parse(Console.ReadLine()) to read input_
 | -4.999999<br>-4.999998   |    false                               | Border case. The difference `0.000001 == eps`. We consider the numbers are different. |
 | 4.999999<br>4.999998     |    false                               | Border case. The difference `0.000001 == eps`. We consider the numbers are different. |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/313#1)
-
 ---
 
 # 14*. Print the ASCII Table
@@ -218,9 +179,6 @@ _Note: You may need to use for-loops (learn in Internet how)._
 ## Constraints
 - Time limit: **0.1s**
 - Memory limit: **16MB**
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/313#2)
 
 ---
 
@@ -266,9 +224,6 @@ Hackers look cool, don't they? They do all kinds of dizzying confusing stuff on 
     - You'll notice that a file named `ImCool.exe` has appeared - you have successfuly compiled a C# file from the terminal. Good job!
 - To run the C# program you just compiled, run the command `ImCool.exe`
     - You will be able to see the output of your program in the terminal
-
-## Submission
-You do not have to submit anything for this problem.
 
 
 

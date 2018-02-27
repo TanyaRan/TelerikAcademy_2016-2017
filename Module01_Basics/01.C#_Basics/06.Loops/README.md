@@ -26,9 +26,6 @@ Write a program that enters from the console a positive integer n and prints all
 | 5              | 1 2 3 4 5      |
 | 1              | 1              |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#0)
-
 ---
 
 # 02. Not Divisible Numbers
@@ -54,9 +51,6 @@ Write a program that reads from the console a positive integer
 |----------------|----------------|
 | 10             | 1 2 4 5 8 10   |
 | 3              | 1 2            |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#1)
 
 ---
 
@@ -94,9 +88,6 @@ avg=4.50
 | 3<br>2<br>5<br>1  | min=1.00<br>max=5.00<br>sum=8.00<br>avg=2.67  |
 | 3<br>2<br>-1<br>4 | min=-1.00<br>max=4.00<br>sum=5.00<br>avg=1.67 |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#2)
-
 ---
 
 # 04. Print a Deck
@@ -130,10 +121,6 @@ Write a program that reads a card sign(as a **string**) from the console and gen
 |     Input      |     Output     |
 |----------------|----------------|
 | 5              | 2 of spades, 2 of clubs, 2 of hearts, 2 of diamonds<br> 3 of spades, 3 of clubs, 3 of hearts, 3 of diamonds<br>...<br>5 of spades, 5 of clubs, 5 of hearts, 5 of diamonds|
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#3)
-
 ---
 
 # 05. Calculate!
@@ -162,9 +149,6 @@ Write a program that, for a given two numbers **N** and **x**, calculates the su
 | 3<br/>2        | 2.75000        |
 | 4<br/>3        | 2.07407        |
 | 5<br/>-4       | 0.75781        |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#4)
 
 ---
 
@@ -195,9 +179,6 @@ Write a program that calculates **N! / K!** for given **N** and **K**.
 | 5<br/>2        | 60             |
 | 6<br/>5        | 6              |
 | 8<br/>3        | 6720           |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#5)
 
 ---
 
@@ -233,9 +214,6 @@ Your task is to write a program that calculates `N! / (K! * (N - K)!)` for given
 | 10<br/>6       | 210            |
 | 52<br/>5       | 2598960        |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#6)
-
 ---
 
 # 08. Catalan Numbers
@@ -266,9 +244,6 @@ In combinatorics, the Catalan numbers are calculated by the following formula:
 | 10             | 16796          |
 | 15             | 9694845        |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#7)
-
 ---
 
 # 09. Matrix of Numbers
@@ -296,9 +271,6 @@ Write a program that reads from the console a positive integer number **N** and 
 | 2              | 1 2<br/>2 3                                  |
 | 3              | 1 2 3<br/>2 3 4<br/>3 4 5                    |
 | 4              | 1 2 3 4<br/>2 3 4 5<br/>3 4 5 6<br/>4 5 6 7  |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#8)
 
 ---
 
@@ -329,9 +301,6 @@ You are given **N** integers (given in a single line, separated by a space).
 | 5<br/>2 1 1 6 3 | yes 6          |
 | 5<br/>4 3 2 5 2 | no 16 15       |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#9)
-
 ---
 
 # 11. Binary to Decimal
@@ -360,9 +329,6 @@ Using loops write a program that converts a binary integer number to its decimal
 | 11                           | 3              |
 | 1010101010101011             | 43691          |
 | 1110000110000101100101000000 | 236476736      |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#10)
 
 ---
 
@@ -394,9 +360,6 @@ Using loops write a program that converts an integer number to its binary repres
 | 43691             | 1010101010101011             |
 | 236476736         | 1110000110000101100101000000 |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#11)
-
 ---
 
 # 13. Decimal to Hex
@@ -426,9 +389,6 @@ Using loops write a program that converts an integer number to its hexadecimal r
 | 6883            | 1AE3            |
 | 338583669684    | 4ED528CBB4      |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#12)
-
 ---
 
 # 14. Hex to Decimal
@@ -457,9 +417,6 @@ Using loops write a program that converts a hexadecimal integer number to its de
 | 1AE3              | 6883                         |
 | 4ED528CBB4        | 338583669684                 |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#13)
-
 ---
 
 # 15*. GCD
@@ -486,9 +443,6 @@ Write a program that calculates the greatest common divisor (**GCD**) of given t
 | 3 2   | 1      |
 | 60 40 | 20     |
 | 5 15  | 5      |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#14)
 
 ---
 
@@ -517,9 +471,6 @@ Write a program that calculates with how many **zeroes** the factorial of a give
 | 20             | 4              | 2432902008176640000 |
 | 100000         | 24999          | think why           |
 
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#15)
-
 ---
 
 # 17**. Spiral Matrix (It is harder than the others)
@@ -547,9 +498,6 @@ Write a program that reads from the console a positive integer number **N** (1 &
 | 2              | 1 2<br/>4 3                                        |
 | 3              | 1 2 3<br/>8 9 4<br/>7 6 5                          |
 | 4              | 1 2 3 4<br/>12 13 14 5<br/>11 16 15 6<br/>10 9 8 7 |
-
-## Submission
-#### Submit your code [here](http://bgcoder.com/Contests/Practice/Index/312#16)
 
 
 
