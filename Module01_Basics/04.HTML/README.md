@@ -1,8 +1,8 @@
 ## Homeworks
-01. [HTML Fundamentals](01.HTML_Fundamentals)
+01. [HTML Fundamentals](01.HTML%20Fundamentals)
 
 02. [HTML-Tables](02.HTML-Tables)
 
-03. [HTML Forms and Frames](03.HTML_Forms_and_Frames)
+03. [HTML Forms and Frames](03.HTML%20Forms%20and%20Frames)
 
 04. [Semantic-HTML](04.Semantic-HTML)
