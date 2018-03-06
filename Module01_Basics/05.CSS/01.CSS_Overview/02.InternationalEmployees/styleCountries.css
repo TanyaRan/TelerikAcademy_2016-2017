@@ -1,0 +1,50 @@
+table
+{
+	font: normal bold 20px/100% Calibri, sans-serif;
+	border-spacing: 0px;	
+	border-bottom: 2px solid #D0CFB7;
+
+}
+	
+thead td
+{
+	background-color:#6b0;
+	color: #fff;
+	padding:10px;	
+	border-right: 2px solid #8c5;
+	border-bottom: 2px solid #2E790D;
+	border-left: 2px solid #482;
+}
+
+tbody td
+{
+	padding:10px 50px 10px 10px;
+	border-right: 2px solid #bbb;
+}
+
+input
+{
+	background-color: #eed;
+}
+
+.trBeige
+{
+	background-color: #eed;	
+}
+
+.col1
+{
+	border-left: 1px solid #fff;	
+}
+
+
+.col4
+{
+	border-right: 1px solid #fff;
+}
+
+img
+{
+	width: 25px;
+	height: 16px;
+}

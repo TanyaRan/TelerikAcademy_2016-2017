@@ -1,0 +1,51 @@
+table
+{
+	background-color:#595959;
+	font: normal 14px/100% Arial, sans-serif;
+	border-collapse: collapse;
+}
+
+td:first-child
+{
+	font-style: italic;
+	color: #f8f8f8;
+	padding:8px 20px 8px 5px;
+}
+
+#ID
+{
+	color:#b2b2b2;
+	letter-spacing: -1px;
+	font: 22px/110% Arial, sans-serif;
+	padding:10px 120px 10px 5px;
+}
+
+.beigeText
+{
+	color: #ffc;
+}
+
+.grayText
+{
+	color:#c1c1c1;
+}
+
+#name
+{
+	background:#595959 url('circle-green.png') no-repeat left center;
+	text-indent:20px;
+}
+
+#noActive
+{
+	color:#f00;
+	font-weight:bold;
+	vertical-align:top;
+	padding:0 120px 15px 0;
+}
+
+#status
+{
+	color:#f60;
+	font-weight:bold;
+}

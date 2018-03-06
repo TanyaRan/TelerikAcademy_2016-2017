@@ -1,0 +1,57 @@
+body {
+	background-color: #a9a9a9;
+	font-family: Times New Roman;
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+header {
+	text-align: center;
+}
+
+header h1 {
+	font-size: 42px;
+}
+
+section h1 {
+	text-align: left;
+	font-size: 21pt;
+}
+
+h1 {
+  color: #fafad2;
+}
+
+body footer {
+	text-align: center;
+}
+
+section footer {
+	font-size: 11pt;
+	text-align: left;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+	font-size: 11pt;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+	font-size: 19pt;
+}
+
+ul li:last-child {
+    text-decoration: underline;
+}
+
+.current {
+    background-color: #d3d3d3;
+}
