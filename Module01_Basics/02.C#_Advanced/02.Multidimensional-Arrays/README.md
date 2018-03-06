@@ -1,5 +1,4 @@
 # Homework: Multidimensional Arrays
-=================================
 
 # 01. Fill the matrix
 

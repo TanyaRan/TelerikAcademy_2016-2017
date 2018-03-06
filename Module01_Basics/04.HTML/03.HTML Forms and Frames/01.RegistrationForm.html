@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>
+			Registration Form
+		</title>
+	</head>
+
+	<body>
+		<form name="registration" method="post" action="apply.php">
+			<table border="1" cellspacing="0" cellpadding="4">
+				<tr>
+					<th align="right">
+						<label for="lname">Last Name</label>
+					</th>
+					<td colspan="3">
+						<input type="text" name="lname" id="lname" size="40" maxlength="60" placeholder="Last Name" />
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="fname">First Name</label>
+					</th>
+					<td colspan="3">
+						<input type="text" name="fname" id="fname" size="40" maxlength="60" placeholder="First Name" />
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="addr">Address</label>
+					</th>
+					<td colspan="3">
+						 <textarea name="addr" id="addr" rows="4" cols="35">
+						 </textarea>
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="city">City</label>
+					</th>
+					<td>
+						<input type="text" name="city" id="city" size="20" maxlength="60" />
+					</td>
+					<th align="right">
+						<label for="state">State</label>
+					</th>
+					<td>
+						<input type="text" name="state" id="state" size="4" maxlength="40" />
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="pCode">Zip/Postal code</label>
+					</th>
+					<td colspan="3">
+						<input type="text" name="pCode" id="pCode" size="10" maxlength="10" />
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="country">Country</label>
+					</th>
+					<td colspan="3">
+						<select name="country" id="country">
+							<option value="AT">Austria</option>
+							<option value="BE">Belgium</option>
+							<option value="BG" selected="selected">Bulgaria</option>
+							<option value="DE">Germany</option>
+							<option value="FR">France</option>
+							<option value="IT">Italy</option>
+							<option value="UK">United Kingdom</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="code">
+						Phone (country code,
+						<br />
+						area code, number)
+						</label>
+					</th>
+					<td colspan="3">
+						(+
+						<input type="text" name="code" id="code" size="4" maxlength="4" />
+						)
+						<input type="text" name="area" id="area" size="4" maxlength="4" />
+						-
+						<input type="text" name="number" id="number" size="10" maxlength="10" />
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="emailInput">E-mail</label>
+					</th>
+					<td colspan="3">
+						<input type="email" name="emailInput" id="emailInput" required="required" size="40" maxlength="60" pattern="[a-zA-Z0-9_]{3,}@[a-zA-Z0-9_]{3,}.[a-zA-Z0-9_]{2,4}" />
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="day">Birth Date</label>
+					</th>
+					<td colspan="3">
+						<input type="text" placeholder="дд.мм.гггг г.">
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="gender">Gender</label>
+					</th>
+					<td colspan="3">
+						<select name="gender" id="gender">
+							<option value="M" selected="selected">Male</option>
+							<option value="F">Female</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="sdate">Starting date</label>
+					</th>
+					<td colspan="3">
+						<input type="radio" name="sdate" id="sdate" value="spring" />
+						Spring 2016
+						<input type="radio" name="sdate" value="summer"/>
+						Summer 2016
+					</td>
+				</tr>
+				<tr>
+					<th align="right">
+						<label for="comments">Comments/Questions</label>
+					</th>
+					<td colspan="3">
+						<textarea name="comments" id="comments" rows="4" cols="35">
+						</textarea>
+					</td>
+				</tr>
+				<tr>
+					<td bgcolor="#D1EDE1" colspan="4" align="center">
+						<input type="submit" name="submit" value="Submit" />
+						<input type="reset" value="Clear This Form" />
+					</td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>
