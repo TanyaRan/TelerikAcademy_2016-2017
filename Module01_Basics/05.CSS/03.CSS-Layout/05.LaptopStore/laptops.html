@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Laptop store</title>
+    <link rel="stylesheet" href="laptops.css" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <nav>
+                <ul>
+                    <li>
+                      <a href="http://www.apple.com/macbookpro/" target="_blank">Apple</a>
+                    </li>
+                    <li>
+                      <a href="http://eu.computers.toshiba-europe.com/innovation/generic/homecomputing_eu/" target="_blank">Toshiba</a>
+                    </li>
+                    <li>
+                      <a href="http://www.lenovo.com/us/en/" target="_blank">Lenovo</a>
+                    </li>
+                    <li>
+                      <a href="http://www.dell.com/us/business/p/laptops.aspx?ref=us-eb-lt" target="_blank">Dell</a>
+                    </li>
+                    <li>
+                      <a href="http://www.asusnotebooks.com.au/" target="_blank">Asus</a>
+                    </li>
+                    <li>
+                      <a href="http://www.acer.bg/ac/bg/BG/content/home" target="_blank">Aser</a>
+                    </li>
+                    <li>
+                      <a href="http://www8.hp.com/bg/bg/prodserv/laptops/home.html" target="_blank">HP</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <section class="table">
+            <div class ="table-row">
+                <div class="table-cell">
+                    <fieldset>
+                        <legend>Apple Notebook Air</legend>
+                        <span class="clearfix">
+                            <img src="images/laptop.jpg" alt="laptop img">
+                            <br />
+                            64 GB SSD<br />
+                            2 GB DDR<br />
+                        </span>
+                        <span>1300 USD</span>
+                        <span>Intel Core i5</span>
+                    </fieldset>
+                </div>
+                <div class="table-cell">
+                    <fieldset>
+                        <legend>Apple Notebook Air</legend>
+                        <span class="clearfix">
+                            <img src="images/laptop.jpg" alt="laptop img">
+                            <br />
+                            64 GB SSD<br />
+                            2 GB DDR<br />
+                        </span>
+                        <span>1300 USD</span>
+                        <span>Intel Core i5</span>
+                    </fieldset>
+                </div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell">
+                    <fieldset>
+                        <legend>Apple Notebook Air</legend>
+                        <span class="clearfix">
+                            <img src="images/laptop.jpg" alt="laptop img">
+                            <br />
+                            64 GB SSD<br />
+                            2 GB DDR<br />
+                        </span>
+                        <span>1300 USD</span>
+                        <span>Intel Core i5</span>
+                    </fieldset>
+                </div>
+                <div class="table-cell">
+                    <fieldset>
+                        <legend>Apple Notebook Air</legend>
+                        <span class="clearfix">
+                            <img src="images/laptop.jpg" alt="laptop img">
+                            <br />
+                            64 GB SSD<br />
+                            2 GB DDR<br />
+                        </span>
+                        <span>1300 USD</span>
+                        <span>Intel Core i5</span>
+                    </fieldset>
+                </div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell">
+                    <fieldset>
+                        <legend>Apple Notebook Air</legend>
+                        <span class="clearfix">
+                            <img src="images/laptop.jpg" alt="laptop img">
+                            <br />
+                            64 GB SSD<br />
+                            2 GB DDR<br />
+                        </span>
+                        <span>1300 USD</span>
+                        <span>Intel Core i5</span>
+                    </fieldset>
+                </div>
+                <div class="table-cell">
+                    <fieldset>
+                        <legend>Apple Notebook Air</legend>
+                        <span class="clearfix">
+                            <img src="images/laptop.jpg" alt="laptop img">
+                            <br />
+                            64 GB SSD<br />
+                            2 GB DDR<br />
+                        </span>
+                        <span>1300 USD</span>
+                        <span>Intel Core i5</span>
+                    </fieldset>
+                </div>
+            </div>
+        </section>
+
+        <aside>
+          <form name="price" method="post" action="price.php">
+            <p>
+              Min Price:
+              <output name = "minPrice"> 500 </output> USD
+            </p>
+            <input type="range" oninput = "minPrice.value = this.value" min="0" max="1000" step = "10" value="500" />
+            <p>
+              Max Price:
+              <output name = "maxPrice"> 2000 </output> USD
+            </p>
+            <input type="range" oninput = "maxPrice.value = this.value" min="1000" max="3000" step = "50" value="2000"/>
+            <p>
+              Min RAM:
+              <output name = "minRAM"> 4 </output> GB
+            </p>
+            <input type="range" oninput = "minRAM.value = this.value" min="1" max="8" step = "1" value="4"/>
+            <p>
+              Max RAM:
+              <output name = "maxRAM"> 16 </output> GB
+            </p>
+            <input type="range" oninput = "maxRAM.value = this.value" min="1" max="32" step = "1" value="16"/>
+          </form>
+        </aside>
+    </div>
+</body>
+</html>

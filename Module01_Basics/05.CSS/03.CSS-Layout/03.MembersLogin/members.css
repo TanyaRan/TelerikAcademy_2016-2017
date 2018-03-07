@@ -1,0 +1,70 @@
+body {
+    width:774px;
+    margin:0;
+    padding:0;
+    font-size: 16px;
+}
+
+/*** HEADER ***/
+header{
+    height:60px;
+    vertical-align: text-top;
+    padding:20px 0 0 25px;
+    font-family: Cambria, serif;
+    font-size:1.6em;
+    color:white;
+    background: linear-gradient(to bottom,  rgba(59,59,59,1) 0%,rgba(59,59,59,1) 36%,rgba(45,45,45,1) 96%,rgba(33,33,33,1) 100%,rgba(55,55,55,1) 100%,rgba(44,44,44,1) 101%);
+    border:1px solid #f1f0f0;
+    border-bottom: 0;
+    border-top-right-radius: 10px;
+}
+label{
+    background:url('images/pc-icon.png') no-repeat;
+    background-size: 39px 39px;
+    background-position: 3%;
+    padding-left:65px;
+    margin-right: 25px;
+}
+input[type=text], input[type=email]{
+    width:160px;
+    height:20px;
+    margin-right: 25px;
+}
+.go{
+    vertical-align: middle;
+    width:55px;
+    height:29px;
+    border:1px solid white;
+    border-radius:10px;
+    background: url(images/go.png);
+}
+
+/*** SECTION ***/
+section {
+    background-color: #3B3B3B;
+    border: 1px solid #f1f0f0;
+    border-top: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+h1{
+    color:#FBD51A;
+    font-family: Cambria, serif;
+    font-weight: normal;
+    font-size:1.9em;
+    margin-top:-1px;
+    padding:20px 0 0 15px;
+
+}
+section p{
+    margin: 0 10px 15px 15px;
+    color:#A1A1A1;
+    font-family: Verdana, sans-serif;
+    font-size:0.9em;
+    line-height: 21px;
+    letter-spacing: 1px;
+}
+section a{
+    color:#eef;
+    text-decoration:none;
+}

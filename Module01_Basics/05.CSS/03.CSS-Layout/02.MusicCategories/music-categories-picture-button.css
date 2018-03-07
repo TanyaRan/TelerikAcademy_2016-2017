@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+	margin: 0;
+	padding: 0;
+  font-weight: normal;
+}
+
+.container {
+	width: 600px;
+	height: 800px;
+	margin: 0;
+	padding: 18px 18px 25px;
+	border: 2px solid #fff;
+	border-radius: 10px;
+	background-color: #eee;
+}
+
+.box {
+	margin: 55px 0 0 0;
+	padding: 22px;
+	border: 2px solid #adadad;
+	background-color: #fff;
+	height: 146px;
+	clear: both;
+}
+.box img {
+	width: 210px;
+	height: 140px;
+	border: 2px solid #adadad;
+	margin-right: 10px;
+	float: left;
+}
+.box p {
+	margin: 0;
+	padding: 0 0 10px 10px;
+}
+
+#listen1, #listen2, #listen3 {
+  background:url(images/button-listen.jpg) no-repeat;
+	width: 115px;
+	height: 40px;
+	margin: 28px 5px 0 118px;
+	float: left;
+  border: 0;
+}
+#add1, #add2, #add3 {
+  background:url(images/button-add.jpg) no-repeat;
+	width: 90px;
+	height: 40px;
+	margin: 28px 0 0 0;
+	float: right;
+  border: 0;
+}

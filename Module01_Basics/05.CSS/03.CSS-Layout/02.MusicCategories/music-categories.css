@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+	margin: 0;
+	padding: 0;
+  font-weight: normal;
+}
+
+.container {
+	width: 600px;
+	height: 800px;
+	margin: 0;
+	padding: 18px 18px 25px;
+	border: 2px solid #fff;
+	border-radius: 10px;
+	background-color: #eee;
+}
+
+.box {
+	margin: 55px 0 0 0;
+	padding: 22px;
+	border: 2px solid #adadad;
+	background-color: #fff;
+	height: 146px;
+	clear: both;
+}
+.box img {
+	width: 210px;
+	height: 140px;
+	border: 2px solid #adadad;
+	margin-right: 10px;
+	float: left;
+}
+.box p {
+	margin: 0;
+	padding: 0 0 10px 10px;
+}
+.box input[value='Listen'], .box input[value='Add'] {
+  border: 3px outset #e79191;
+  color: #eddad9;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+.box input[value='Listen'] {
+  background: linear-gradient(to right, #890000 0%, #890000 23%, #cc0000 23%, #cc0000 100%);
+	width: 115px;
+	height: 40px;
+	margin: 28px 5px 0 118px;
+	float: left;
+}
+.box input[value='Add'] {
+  background: linear-gradient(to right, #890000 0%, #890000 26%, #cc0000 26%, #cc0000 100%);
+	width: 90px;
+	height: 40px;
+	margin: 28px 0 0 0;
+	float: right;
+}
