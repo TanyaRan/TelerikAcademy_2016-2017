@@ -1,6 +1,6 @@
 # Homework: Methods
 
-# 01. # Say Hello
+# 01. Say Hello
 
 ## Description
 Write a method that asks the user for his name and prints `Hello, <name>!`.
