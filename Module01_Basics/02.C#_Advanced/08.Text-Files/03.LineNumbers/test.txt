@@ -1,0 +1,17 @@
+using System;
+using System.Text.RegularExpressions;
+
+
+public class Launcher
+{
+    public static void Main()
+    {
+        string str = "abd scr aax AxxA";
+        string regex = @"\b[a]\w+"; // match all words start with 'a', but not 'A'
+        MatchCollection matches = Regex.Matches(str, regex);
+        for (int i = 0; i < matches.Count; i++)
+        {
+            Console.WriteLine(matches[i]);
+        }
+    }
+}

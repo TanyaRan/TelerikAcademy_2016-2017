@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+Using System.Text;
+using System.Text.RegularExpressions;
+
+
+public class Launcher
+{
+    public static void Main()
+    {
+        String str = "abd scr aax Asolute";
+        string regex = @"\b[a]\w+";//hvashta dumi, zapochvashti s 'a'
+        MatchCollection matches = Regex.Matches(str, regex);
+        for (int i = 0; i < matches.Count; i++)
+        {
+            Console.WriteLine(matches[i]);
+        }
+    }
+}
+Using
+STRING
+Using
+pUbLiC
+StRiNg
+FOR

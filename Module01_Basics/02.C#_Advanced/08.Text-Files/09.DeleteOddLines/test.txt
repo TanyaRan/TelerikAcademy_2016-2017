@@ -1,0 +1,9 @@
+2    using System.Text.RegularExpressions;
+4    
+6    {
+8        {
+10           string regex = @"\b[a]\w+"; // match all words start with 'a', but not 'A'
+12           for (int i = 0; i < matches.Count; i++)
+14               Console.WriteLine(matches[i]);
+16       }
+
