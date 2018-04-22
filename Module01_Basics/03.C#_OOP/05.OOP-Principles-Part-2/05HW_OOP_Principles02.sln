@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesSet", "ShapesSet\ShapesSet.csproj", "{002827C5-CBAA-4C9B-84ED-C1C226B67E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccounts", "BankAccounts\BankAccounts.csproj", "{31C8C7E7-A9E5-48E7-9161-7C560916E9AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRangeException", "De moRangeException\DemoRangeException.csproj", "{E3AC7113-1CDC-4941-BD47-5092F1AF4107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{002827C5-CBAA-4C9B-84ED-C1C226B67E19}.Debug|x86.ActiveCfg = Debug|x86
+		{002827C5-CBAA-4C9B-84ED-C1C226B67E19}.Debug|x86.Build.0 = Debug|x86
+		{002827C5-CBAA-4C9B-84ED-C1C226B67E19}.Release|x86.ActiveCfg = Release|x86
+		{002827C5-CBAA-4C9B-84ED-C1C226B67E19}.Release|x86.Build.0 = Release|x86
+		{31C8C7E7-A9E5-48E7-9161-7C560916E9AF}.Debug|x86.ActiveCfg = Debug|x86
+		{31C8C7E7-A9E5-48E7-9161-7C560916E9AF}.Debug|x86.Build.0 = Debug|x86
+		{31C8C7E7-A9E5-48E7-9161-7C560916E9AF}.Release|x86.ActiveCfg = Release|x86
+		{31C8C7E7-A9E5-48E7-9161-7C560916E9AF}.Release|x86.Build.0 = Release|x86
+		{E3AC7113-1CDC-4941-BD47-5092F1AF4107}.Debug|x86.ActiveCfg = Debug|x86
+		{E3AC7113-1CDC-4941-BD47-5092F1AF4107}.Debug|x86.Build.0 = Debug|x86
+		{E3AC7113-1CDC-4941-BD47-5092F1AF4107}.Release|x86.ActiveCfg = Release|x86
+		{E3AC7113-1CDC-4941-BD47-5092F1AF4107}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

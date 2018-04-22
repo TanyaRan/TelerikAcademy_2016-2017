@@ -1,0 +1,6 @@
+Coord X:3, Coord Y:-4, Coord Z:-5
+
+Coord X:1, Coord Y:20, Coord Z:30
+
+Coord X:7, Coord Y:-8, Coord Z:10
+
