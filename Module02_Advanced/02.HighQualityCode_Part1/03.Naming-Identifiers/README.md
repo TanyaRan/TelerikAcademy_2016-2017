@@ -68,5 +68,5 @@
 		}
 
 ### Task 4. Re-factor and improve the code
-*	Refactor and improve the naming in the C# source project `Application1.sln`.
+*	Refactor and improve the naming in the C# source project `Application1.sln`.[source][Application1]
 *	You are allowed to make other improvements in the code as well (not only naming) as well as to fix bugs.
