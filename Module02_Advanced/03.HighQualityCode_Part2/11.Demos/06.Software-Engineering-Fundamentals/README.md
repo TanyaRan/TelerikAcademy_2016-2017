@@ -146,7 +146,7 @@ operation, and maintenance of software.
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # User Story – _Example_
-<img class="slide-image" showInPresentation="true" src="imgs\pic11.png" style="top:14.93%; left:19.65%; width:68.76%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic11.png" style="top:14.93%; left:19.65%; width:68.76%; z-index:-1" />
 
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
@@ -184,12 +184,12 @@ operation, and maintenance of software.
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # System Architecture Diagram – _Example_
-<img class="slide-image" showInPresentation="true" src="imgs\pic15.png" style="top:14.99%; left:19.23%; width:69.55%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic15.png" style="top:14.99%; left:19.23%; width:69.55%; z-index:-1" />
 
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Software Architecture Diagram – _Example_
-<img class="slide-image" showInPresentation="true" src="imgs\pic16.png" style="top:14.99%; left:14.01%; width:79.39%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic16.png" style="top:14.99%; left:14.01%; width:79.39%; z-index:-1" />
 
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
@@ -449,7 +449,7 @@ operation, and maintenance of software.
 # <a id="waterfallProcess"></a>The Waterfall Process
 - The waterfall development process:
 
-<img class="slide-image" showInPresentation="true" src="imgs\pic53.png" style="top:23.05%; left:20%; width:80%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic53.png" style="top:23.05%; left:20%; width:80%; z-index:-1" />
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic37.png" style="top:12.34%; left:93.14%; width:14.10%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic38.png" style="top:52.89%; left:4.68%; width:14.19%; z-index:-1" /> -->
 
@@ -458,7 +458,7 @@ operation, and maintenance of software.
 # <a id="heavyweightMethodologies"></a>Formal Methodologies
 - Formal methodologies are heavyweight!
 
-<img class="slide-image" showInPresentation="true" src="imgs\pic54.png" style="top:22.34%; left:3.14%; width:94.10%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic54.png" style="top:22.34%; left:3.14%; width:94.10%; z-index:-1" />
 
 
 
@@ -510,7 +510,7 @@ Manifesto for Agile
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Extreme Programming:The 12 Key Practices
 
-<img class="slide-image" showInPresentation="true" src="imgs\pic55.png" style="top:19.67%; left:3.33%; width:80.67%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic55.png" style="top:19.67%; left:3.33%; width:80.67%; z-index:-1" />
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic43.png" style="top:19.67%; left:53.33%; width:50.67%; z-index:-1" /> -->
 
 
@@ -541,7 +541,7 @@ Manifesto for Agile
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # The Scrum Process Framework
-<img class="slide-image" showInPresentation="true" src="imgs\pic46.png" style="top:15.87%; left:7.49%; width:91.68%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic46.png" style="top:15.87%; left:7.49%; width:91.68%; z-index:-1" />
 
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->

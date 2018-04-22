@@ -98,7 +98,7 @@ process meets customer or user needs or expectations
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Dependencies
-<img class="slide-image" showInPresentation="true" src="imgs\pic09.png" style="top:12.34%; left:13.82%; width:79.75%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic09.png" style="top:12.34%; left:13.82%; width:79.75%; z-index:-1" />
 
 
 
@@ -208,7 +208,7 @@ or manufactured.  Contrast with quality control.
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # QA vs. Testing
-<img class="slide-image" showInPresentation="true" src="imgs\pic29.png" style="top:12%; left:5%; width:90%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic29.png" style="top:12%; left:5%; width:90%; z-index:-1" />
 
 
 
@@ -233,7 +233,7 @@ or manufactured.  Contrast with quality control.
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Relative Effectiveness
-<img class="slide-image" showInPresentation="true" src="imgs\pic30.png" style="top:12%; left:5%; width:90%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic30.png" style="top:12%; left:5%; width:90%; z-index:-1" />
 
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
@@ -241,7 +241,7 @@ or manufactured.  Contrast with quality control.
 - Combination of Techniques
 - Extreme programing Techniques
 
-<img class="slide-image" showInPresentation="true" src="imgs\pic31.png" style="top:30%; left:5%; width:90%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic31.png" style="top:30%; left:5%; width:90%; z-index:-1" />
 
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
