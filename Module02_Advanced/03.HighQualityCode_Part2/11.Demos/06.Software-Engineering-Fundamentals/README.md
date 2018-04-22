@@ -410,7 +410,7 @@ operation, and maintenance of software.
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Project Plan – _Example_
-<img class="slide-image" showInPresentation="true" src="imgs\pic31.png" style="top:14.10%; left:4.42%; width:97.21%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="images\pic31.png" style="top:14.10%; left:4.42%; width:97.21%; z-index:-1" />
 
 
 
