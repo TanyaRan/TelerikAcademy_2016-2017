@@ -1,9 +1,11 @@
-# Course 
+# Course "Data Structures and Algorithms"
 - Data structures (lists, trees, hash-tables, graphs), 
 - Complexity, 
 - Algorithms (recursion, combinatorics, dynamic programming, graphs)
 
 ## Homeworks
+|                                        |                                        |
+|:--------------------------------------:|:--------------------------------------:|
 |[01.Data-Structures-Algorithms-and-Complexity](01.Data-Structures-Algorithms-and-Complexity)|[02.Linear-Data-Structures](02.Linear-Data-Structures)|
 |[03.Recursion](03.Recursion)|[04.Combinatorics](04.Combinatorics)|
 |[05.Sorting-Algorithms](05.Sorting-Algorithms)|[06.Searching-Algorithms](06.Searching-Algorithms)|

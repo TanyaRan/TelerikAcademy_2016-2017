@@ -1,8 +1,7 @@
 ## Module 03
 
 ### [01.DataStructures_Algorithms](01.DataStructures_Algorithms)
-|     Data structures (lists, trees,     |  Algorithms (recursion, combinatorics, |
-|    hash-tables, graphs), complexity    |      dynamic programming, graphs)      |
+|                                        |                                        |
 |:--------------------------------------:|:--------------------------------------:|
 |[01.Data-Structures-Algorithms-and-Complexity](01.DataStructures_Algorithms/01.Data-Structures-Algorithms-and-Complexity)|[02.Linear-Data-Structures](01.DataStructures_Algorithms/02.Linear-Data-Structures)|
 |[03.Recursion](01.DataStructures_Algorithms/03.Recursion)|[04.Combinatorics](01.DataStructures_Algorithms/04.Combinatorics)|
@@ -17,7 +16,7 @@
 |[21.Exam](01.DataStructures_Algorithms/21.Exam)|[22.Demos](01.DataStructures_Algorithms/22.Demos)|
 
 ### [02.Node.js_WebApplications](02.Node.js_WebApplications)
-| Node.js,  NoSQL DB,  Creating web apps |  Testing,  Containers,  Cloud - AWS    |
+|                                        |                                        |
 |:--------------------------------------:|:--------------------------------------:|
 |[01.Node.js-Introduction](01.Node.js-Introduction)|[02.Modules](02.Modules)|
 |[03.IO-and-Streams](03.IO-and-Streams)|[04.MongoDB](04.MongoDB)|
