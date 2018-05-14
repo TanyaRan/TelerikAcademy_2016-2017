@@ -1,32 +1,32 @@
 ## Module 01
 
-### [01.C#_Basics](01.C#_Basics)
+### [01.C#_Basics](01.C%23_Basics)
 |                                        |                                        |
 |:--------------------------------------:|:--------------------------------------:|
-|[01.Introduction to Programming](01.C#_Basics/01.Intro-Programming-Homework)|[02.Data Types and Variables](01.C#_Basics/02.DataTypes_Variables)|
-|[03.Operators and Expressions](01.C#_Basics/03.Operators_and_Expressions)|[04.Console Input / Output](01.C#_Basics/04.Console-In-and-Out)|
-|[05.Conditional Statements](01.C#_Basics/05.Conditional_Statements)|[06.Loops](01.C#_Basics/06.Loops)|
-|[07.ExamPreparation](01.C#_Basics/07.ExamPreparation)|[08.Exam](01.C#_Basics/08.Exam)|
-|[09.Demos](01.C#_Basics/09.Demos)|
+|[01.Introduction to Programming](01.C%23_Basics/01.Intro-Programming-Homework)|[02.Data Types and Variables](01.C%23_Basics/02.DataTypes_Variables)|
+|[03.Operators and Expressions](01.C%23_Basics/03.Operators_and_Expressions)|[04.Console Input / Output](01.C%23_Basics/04.Console-In-and-Out)|
+|[05.Conditional Statements](01.C%23_Basics/05.Conditional_Statements)|[06.Loops](01.C%23_Basics/06.Loops)|
+|[07.ExamPreparation](01.C%23_Basics/07.ExamPreparation)|[08.Exam](01.C%23_Basics/08.Exam)|
+|[09.Demos](01.C%23_Basics/09.Demos)|
 
-### [02.C#_Advanced](02.C#_Advanced)
+### [02.C#_Advanced](02.C%23_Advanced)
 |                                        |                                        |
 |:--------------------------------------:|:--------------------------------------:|
-|[01.Arrays](02.C#_Advanced/01.Arrays)|[02.Multidimensional-Arrays](02.C#_Advanced/02.Multidimensional-Arrays)|
-|[03.Methods](02.C#_Advanced/03.Methods)|[04.Numeral-Systems](02.C#_Advanced/04.Numeral-Systems)|
-|[05.Using-Classes-and-Objects](02.C#_Advanced/05.Using-Classes-and-Objects)|[06.Strings-and-Text-Processing](02.C#_Advanced/06.Strings-and-Text-Processing)|
-|[07.Exception-Handling](02.C#_Advanced/07.Exception-Handling)|[08.Text-Files](02.C#_Advanced/08.Text-Files)|
-|[09.ExamPreparation](02.C#_Advanced/09.ExamPreparation)|[10.Exam](02.C#_Advanced/10.Exam)|
-|[11.Demos](02.C#_Advanced/11.Demos)|
+|[01.Arrays](02.C%23_Advanced/01.Arrays)|[02.Multidimensional-Arrays](02.C%23_Advanced/02.Multidimensional-Arrays)|
+|[03.Methods](02.C%23_Advanced/03.Methods)|[04.Numeral-Systems](02.C%23_Advanced/04.Numeral-Systems)|
+|[05.Using-Classes-and-Objects](02.C%23_Advanced/05.Using-Classes-and-Objects)|[06.Strings-and-Text-Processing](02.C%23_Advanced/06.Strings-and-Text-Processing)|
+|[07.Exception-Handling](02.C%23_Advanced/07.Exception-Handling)|[08.Text-Files](02.C%23_Advanced/08.Text-Files)|
+|[09.ExamPreparation](02.C%23_Advanced/09.ExamPreparation)|[10.Exam](02.C%23_Advanced/10.Exam)|
+|[11.Demos](02.C%23_Advanced/11.Demos)|
 
-### [03.C#_OOP](03.C#_OOP)
+### [03.C#_OOP](03.C%23_OOP)
 |                                        |                                        |
 |:--------------------------------------:|:--------------------------------------:|
-|[01.Defining-Classes-Part-1](03.C#_OOP/01.Defining-Classes-Part-1)|[02.Defining-Classes-Part-2](03.C#_OOP/02.Defining-Classes-Part-2)|
-|[03.Extension-Methods-Delegates-Lambda-LINQ](03.C#_OOP/03.Extension-Methods-Delegates-Lambda-LINQ)|[04.OOP-Principles-Part-1](03.C#_OOP/04.OOP-Principles-Part-1)|
-|[05.OOP-Principles-Part-2](03.C#_OOP/05.OOP-Principles-Part-2)|[06.Common-Type-System](03.C#_OOP/06.Common-Type-System)|
-|[07.ExamPreparation](03.C#_OOP/07.ExamPreparation)|[08.Exam](03.C#_OOP/08.Exam)|
-|[09.Demos](03.C#_OOP/09.Demos)|
+|[01.Defining-Classes-Part-1](03.C%23_OOP/01.Defining-Classes-Part-1)|[02.Defining-Classes-Part-2](03.C%23_OOP/02.Defining-Classes-Part-2)|
+|[03.Extension-Methods-Delegates-Lambda-LINQ](03.C%23_OOP/03.Extension-Methods-Delegates-Lambda-LINQ)|[04.OOP-Principles-Part-1](03.C%23_OOP/04.OOP-Principles-Part-1)|
+|[05.OOP-Principles-Part-2](03.C%23_OOP/05.OOP-Principles-Part-2)|[06.Common-Type-System](03.C%23_OOP/06.Common-Type-System)|
+|[07.ExamPreparation](03.C%23_OOP/07.ExamPreparation)|[08.Exam](03.C%23_OOP/08.Exam)|
+|[09.Demos](03.C%23_OOP/09.Demos)|
 
 ### [04.HTML](04.HTML)
 |                                        |                                        |
