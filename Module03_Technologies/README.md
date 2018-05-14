@@ -16,7 +16,7 @@
 |[21.Exam](01.DataStructures_Algorithms/21.Exam)|[22.Demos](01.DataStructures_Algorithms/22.Demos)|
 
 ### [02.Node.js_WebApplications](02.Node.js_WebApplications)
-| Node.js, Working with databases, Creating web apps, Testing, Containers,  Cloud |
+| Node.js,  NoSQL DB,  Creating web apps |  Testing,  Containers,  Cloud - AWS    |
 |:--------------------------------------:|:--------------------------------------:|
 |[01.Node.js-Introduction](01.Node.js-Introduction)|[02.Modules](02.Modules)|
 |[03.IO-and-Streams](03.IO-and-Streams)|[04.MongoDB](04.MongoDB)|
