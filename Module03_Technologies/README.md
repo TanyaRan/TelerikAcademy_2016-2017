@@ -1,7 +1,8 @@
 ## Module 03
 
 ### [01.DataStructures_Algorithms](01.DataStructures_Algorithms)
-|                                        |                                        |
+|     Data structures (lists, trees,     |  Algorithms (recursion, combinatorics, |
+|    hash-tables, graphs), complexity    |      dynamic programming, graphs)      |
 |:--------------------------------------:|:--------------------------------------:|
 |[01.Data-Structures-Algorithms-and-Complexity](01.DataStructures_Algorithms/01.Data-Structures-Algorithms-and-Complexity)|[02.Linear-Data-Structures](01.DataStructures_Algorithms/02.Linear-Data-Structures)|
 |[03.Recursion](01.DataStructures_Algorithms/03.Recursion)|[04.Combinatorics](01.DataStructures_Algorithms/04.Combinatorics)|
