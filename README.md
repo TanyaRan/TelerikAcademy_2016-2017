@@ -1,5 +1,6 @@
 # TelerikAcademy_2016-2017
-All my Homeworks, Exams, Teamworks
+My Homeworks, Exams, Teamworks, TelerikAcademy Demos.
+I am a proud member and a graduate student of the Telerik Academy 2016-2017. :)
 
 ## Module01_Basics
 | C# Programming                         | HTML, CSS, JavaScript                  |
